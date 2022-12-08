@@ -29,7 +29,10 @@ module.exports = () => {
         name: 'Just Another Text Editor',
         short_name: 'J.A.T.E',
         description: 'Edit the text and download it.',
-        background_color: '#ffffff',
+        background_color: '#225ca3',
+        theme_color: '#225ca3',
+        orientation: 'portait',
+        display: 'standalone',
         start_url: './',
         publicPath: './',
         icons: [
