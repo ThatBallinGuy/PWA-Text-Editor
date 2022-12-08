@@ -31,7 +31,7 @@ module.exports = () => {
         description: 'Edit the text and download it.',
         background_color: '#225ca3',
         theme_color: '#225ca3',
-        orientation: 'portait',
+        orientation: 'portrait',
         display: 'standalone',
         start_url: './',
         publicPath: './',
